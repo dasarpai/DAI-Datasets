@@ -2,6 +2,10 @@
 
 The repository carries a diverse range of themes, difficulty levels, sizes and attributes. They offer hands-on practice to boost their skills in exploratory data analysis, data visualization, data wrangling and machine learning.
 
+
+## Misc 
+GoogleNews-vectors-negative300.bin.gz can be download from internet/kaggle
+
 ## Beginner:
 
 [**Find out the age of Abalone from physical measurements**] - (Abalone)<br/>
