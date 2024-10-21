@@ -8,133 +8,133 @@ GoogleNews-vectors-negative300.bin.gz can be download from internet/kaggle
 
 ## Beginner:
 
-[**Find out the age of Abalone from physical measurements**] - (Abalone)<br/>
+1. **Find out the age of Abalone from physical measurements** => <font color=green>**Dateset:**</font> Abalone)<br/>
 Regression Models | Environment
 
-[**Predict student's knowledge level**] - (User Knowledge Modeling)<br/>
+1. **Predict student's knowledge level** => <font color=green>**Dateset:**</font> User Knowledge Modeling)<br/>
 Classification/Clustering | Education/Web
 
-[**Can you predict the price of a house?**] - (Real Estate Valuation)<br/>
+1. **Can you predict the price of a house?** => <font color=green>**Dateset:**</font> Real Estate Valuation)<br/>
 Regression Models | Real Estate
 
-[**Can you estimate location from WIFI Signal Strength**] - (Wireless Indoor Localization)<br/>
+1. **Can you estimate location from WIFI Signal Strength** => <font color=green>**Dateset:**</font> Wireless Indoor Localization)<br/>
 Classification Models | Mobile/Location
 
-[**Predict acceptability of a car**] - (Car Evaluation)<br/>
+1. **Predict acceptability of a car** => <font color=green>**Dateset:**</font> Car Evaluation)<br/>
 Classification Models | Automobile
 
-[**Predict seminal quality of an individual**] - (Fertility)<br/>
+1. **Predict seminal quality of an individual** => <font color=green>**Dateset:**</font> Fertility)<br/>
 Regression/Classification Models | Healthcare/Life
 
-[**Estimate chance of bankruptcy from qualitative parameters by experts**] - (Qualitative Bankruptcy)<br/>
+1. **Estimate chance of bankruptcy from qualitative parameters by experts** => <font color=green>**Dateset:**</font> Qualitative Bankruptcy)<br/>
 Classification Models | Finance/Banking
 
-[**Understand driving patterns of Birmingham with respect to time and date**] - (Birmingham Parking Dataset)<br/>
+1. **Understand driving patterns of Birmingham with respect to time and date** => <font color=green>**Dateset:**</font> Birmingham Parking Dataset)<br/>
 Regression/Classification Models | Transport and Mobility
 
-[**Explore the effect of time, date and weather on traffic volume on a US Interstate**]
+1. **Explore the effect of time, date and weather on traffic volume on a US Interstate**]
 Regression Models | Transport and Mobility
 
-[**Explore patterns in drug abuse between cities, age groups and racial groups**] - (Accidental Drug Related Deaths in Connecticut, US)<br/>
+1. **Explore patterns in drug abuse between cities, age groups and racial groups** => <font color=green>**Dateset:**</font> Accidental Drug Related Deaths in Connecticut, US)<br/>
 Classification Models | Healthcare/Social Sciences
 
 ---
 ## Intermediate:
 
-[**Can you predict the fuel-efficiency of a car?**] - (Auto MPG)<br/>
+1. **Can you predict the fuel-efficiency of a car?** => <font color=green>**Dateset:**</font> Auto MPG)<br/>
 Regression Models | Automobiles
 
-[**Was that chest pain an indicator of a heart disease**] - (Heart Disease)<br/>
+1. **Was that chest pain an indicator of a heart disease** => <font color=green>**Dateset:**</font> Heart Disease)<br/>
 Classification Models | Health Sciences
 
-[**Predict total number of demand of orders**] - (Daily Demand Forecasting Orders)<br/>
+1. **Predict total number of demand of orders** => <font color=green>**Dateset:**</font> Daily Demand Forecasting Orders)<br/>
 Regression Models | Business
 
-[**Find out if a donor will give blood in March 2007**] - (Blood Transfusion Service Center)<br/>
+1. **Find out if a donor will give blood in March 2007** => <font color=green>**Dateset:**</font> Blood Transfusion Service Center)<br/>
 Classification Models | Business
 
-[**Forecast pollution level of a city**] - (Beijing PM2.5)<br/>
+1. **Forecast pollution level of a city** => <font color=green>**Dateset:**</font> Beijing PM2.5)<br/>
 Regression Models | Environment
 
-[**Will the patient survive for at least one year after a heart attack**] - (Echocardiogram)<br/>
+1. **Will the patient survive for at least one year after a heart attack** => <font color=green>**Dateset:**</font> Echocardiogram)<br/>
 Classification Models | Automobiles
 
-[**Estimate compressive strength of concrete**] - (Concrete Compressive Strength)<br/>
+1. **Estimate compressive strength of concrete** => <font color=green>**Dateset:**</font> Concrete Compressive Strength)<br/>
 Regression Models | Civil Engineering/Construction
 
-[**Discover patterns relating liver disorder and alcohol consumption**] - (Liver Disorders)<br/>
+1. **Discover patterns relating liver disorder and alcohol consumption** => <font color=green>**Dateset:**</font> Liver Disorders)<br/>
 Classification/Regression/Clustering Models | Healthcare
 
-[**Predict which stock will provide greatest rate of return**] - (Dow Jones Index)<br/>
+1. **Predict which stock will provide greatest rate of return** => <font color=green>**Dateset:**</font> Dow Jones Index)<br/>
 Clustering/Regression/Classification Models | Business/Finance
 
-[**Assess heating and cooling load requirements of building**] - (Energy Efficiency)<br/>
+1. **Assess heating and cooling load requirements of building** => <font color=green>**Dateset:**</font> Energy Efficiency)<br/>
 Regression/Classification Models | Energy
 
-[**Determine the type of glass using oxide content**] - (Glass Identification)<br/>
+1. **Determine the type of glass using oxide content** => <font color=green>**Dateset:**</font> Glass Identification)<br/>
 Classification Models | Physical
 
-[**Predict chance of survival**] - (Hepatitis)<br/>
+1. **Predict chance of survival** => <font color=green>**Dateset:**</font> Hepatitis)<br/>
 Classification Models | Healthcare
 
-[**Find patterns from spending data at wholesale**] - (Wholesale Customers)<br/>
+1. **Find patterns from spending data at wholesale** => <font color=green>**Dateset:**</font> Wholesale Customers)<br/>
 Classification/Clustering | Business/Retail
 
-[**Group similar travel reviews**] - (Travel Reviews)<br/>
+1. **Group similar travel reviews** => <font color=green>**Dateset:**</font> Travel Reviews)<br/>
 Clustering/Classification Models | Domain: Web
 
-[**Relate returns of Istanbul Stock Exchange with other international indices**] - (Istanbul Stock Exchange)<br/>
+1. **Relate returns of Istanbul Stock Exchange with other international indices** => <font color=green>**Dateset:**</font> Istanbul Stock Exchange)<br/>
 Regression/Classification Models | Business/Finance
 
-[**Predict bike rental count (hourly/daily) based on the environmental & seasonal settings**] - (Bike Sharing)<br/>
+1. **Predict bike rental count (hourly/daily) based on the environmental & seasonal settings** => <font color=green>**Dateset:**</font> Bike Sharing)<br/>
 Regression Models | Social
 
-[**Detect Room Occupancy through Light, Temperature, Humidity and CO2 sensors**] - (Occupancy Detection)<br/>
+1. **Detect Room Occupancy through Light, Temperature, Humidity and CO2 sensors** => <font color=green>**Dateset:**</font> Occupancy Detection)<br/>
 Classification Models | Energy/Buildings
 
-[**Estimate whether a person’s income exceeds $50K/year**] - (Census Income)<br/>
+1. **Estimate whether a person’s income exceeds $50K/year** => <font color=green>**Dateset:**</font> Census Income)<br/>
 Classification Models | Social/Government
 
-[**Predict the condition of a patients liver from their bloodwork**]
+1. **Predict the condition of a patients liver from their bloodwork**]
 Classification Models | Healthcare
 
-[**Predict future poverty trends in EU Countries**] - (EU Population Poverty Status Dataset)<br/>
+1. **Predict future poverty trends in EU Countries** => <font color=green>**Dateset:**</font> EU Population Poverty Status Dataset)<br/>
 Regression Models | Social/Government
 
-[**Predict the spread of Tuberculosis across the US**] - (US Tuberculosis Dataset)<br/>
+1. **Predict the spread of Tuberculosis across the US** => <font color=green>**Dateset:**</font> US Tuberculosis Dataset)<br/>
 Regression Models | Healthcare
 
-[**Determine if smoking, invasive birth control methods and a history of STDs can lead to Cervical Cancer**] - (Risk Factors for Cervical Cancer)<br/>
+1. **Determine if smoking, invasive birth control methods and a history of STDs can lead to Cervical Cancer** => <font color=green>**Dateset:**</font> Risk Factors for Cervical Cancer)<br/>
 Classification Models | Healthcare
 
 ---
 ## Advanced:
 
-[**Detect Autistic Spectrum Disorder (ASD) cases**] - (Autism Screening Adult)<br/>
+1. **Detect Autistic Spectrum Disorder (ASD) cases** => <font color=green>**Dateset:**</font> Autism Screening Adult)<br/>
 Classification Models | Healthcare/Social Sciences
 
-[**Estimate the probability of Default**] - (Default of Credit Card Clients)<br/>
+1. **Estimate the probability of Default** => <font color=green>**Dateset:**</font> Default of Credit Card Clients)<br/>
 Classification Models | Business/Finance
 
-[**Predict if a note is genuine**] - (Banknote Authentication)<br/>
+1. **Predict if a note is genuine** => <font color=green>**Dateset:**</font> Banknote Authentication)<br/>
 Classification Models | Banking/Finance
 
-[**Find a short term forecast on electricity consumption of a single home**] - (Individual Household Electric Power Consumption)<br/>
+1. **Find a short term forecast on electricity consumption of a single home** => <font color=green>**Dateset:**</font> Individual Household Electric Power Consumption)<br/>
 Regression/Clustering Models | Electricity
 
-[**Predict the number of shares on social networks**] - (Online News Popularity)<br/>
+1. **Predict the number of shares on social networks** => <font color=green>**Dateset:**</font> Online News Popularity)<br/>
 Regression/Classification Models | Business/Web
 
-[**Analyze the text or sentiment of products on Amazon, or recommend products**] - (Amazon Product Reviews)<br/>
+1. **Analyze the text or sentiment of products on Amazon, or recommend products** => <font color=green>**Dateset:**</font> Amazon Product Reviews)<br/>
 Text Analytics/Sentiment Analysis/Recommender Systems
 
-[**Explore predictive modelling and numerical forecasting techniques**] - (Portugal 2019 Election Dataset)<br/>
+1. **Explore predictive modelling and numerical forecasting techniques** => <font color=green>**Dateset:**</font> Portugal 2019 Election Dataset)<br/>
 Regression Models | Social Sciences/Government
 
-[**Explore changes in brain activity in humans in the presence and absence of a visual stimulus**] - (EEG Eye State Dataset)<br/>
+1. **Explore changes in brain activity in humans in the presence and absence of a visual stimulus** => <font color=green>**Dateset:**</font> EEG Eye State Dataset)<br/>
 Classification Models | Neuroscience/Healthcare
 
-[**Explore patterns in brain activity based on multiple visual and non-visual stimuli**] - (EEG Steady State Evoked Potential Dataset)<br/>
+1. **Explore patterns in brain activity based on multiple visual and non-visual stimuli** => <font color=green>**Dateset:**</font> EEG Steady State Evoked Potential Dataset)<br/>
 Classification Models | Neuroscience/Healthcare
 
 
